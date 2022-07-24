@@ -1,4 +1,4 @@
-# test
+# Covid Tracker Vue js
 
 ## Project setup
 ```
@@ -17,3 +17,8 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+
+### APP shows New and Total cases and deaths for The entire world and every specific country
